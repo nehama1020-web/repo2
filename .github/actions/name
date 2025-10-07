@@ -1,0 +1,4 @@
+- name: Run External Custom Action
+  uses: 
+  with: nehama1020-web/repo1@main
+    who: 'Neha'
